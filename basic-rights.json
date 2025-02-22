@@ -1,0 +1,19 @@
+{
+  "category": "Basic Rights",
+  "laws": [
+    {
+      "id": 1,
+      "law": "Law 1",
+      "act": "Act 1",
+      "section": "Section 3",
+      "summary": "This is basic rights."
+    },
+    {
+      "id": 2,
+      "law": "Law 2",
+      "act": "Act 5",
+      "section": "Section 2",
+      "summary": "Another basic right law."
+    }
+  ]
+}
