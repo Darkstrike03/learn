@@ -1,0 +1,24 @@
+{
+    "basic-rights": [
+        {
+            "law": "Right to Equality",
+            "act": "Article 14",
+            "section": "Section 1",
+            "summary": "Ensures equal rights for all."
+        },
+        {
+            "law": "Right to Freedom",
+            "act": "Article 19",
+            "section": "Section 2",
+            "summary": "Provides various freedoms like speech, expression, etc."
+        }
+    ],
+    "domestic-rights": [
+        {
+            "law": "Right against Domestic Violence",
+            "act": "Domestic Violence Act, 2005",
+            "section": "Section 3",
+            "summary": "Protects against domestic abuse."
+        }
+    ]
+}
