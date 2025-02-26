@@ -21,5 +21,118 @@
             "section": "Section 3",
             "summary": "Protects against domestic abuse."
         }
+    ],
+    "fundamental_rights": [
+        {
+            "title": "Right to Equality",
+            "article": 14,
+            "description": "Guarantees equality before the law and equal protection of the laws within the territory of India."
+        },
+        {
+            "title": "Prohibition of Discrimination",
+            "article": 15,
+            "description": "Prohibits discrimination on grounds of religion, race, caste, sex, or place of birth."
+        },
+        {
+            "title": "Access to Public Places",
+            "article": "15(2)",
+            "description": "Ensures no citizen is denied access to shops, public restaurants, hotels, and places of public entertainment."
+        },
+        {
+            "title": "Special Provisions for Women and Children",
+            "article": "15(3)",
+            "description": "Allows the State to make special provisions for the advancement of women and children."
+        },
+        {
+            "title": "Right to Freedom of Speech and Expression",
+            "article": "19(1)(a)",
+            "description": "Guarantees the right to express one's thoughts and opinions freely."
+        },
+        {
+            "title": "Right to Assemble Peacefully",
+            "article": "19(1)(b)",
+            "description": "Allows citizens to assemble peacefully without arms."
+        },
+        {
+            "title": "Right to Form Associations",
+            "article": "19(1)(c)",
+            "description": "Grants the right to form associations or unions."
+        },
+        {
+            "title": "Right to Move Freely",
+            "article": "19(1)(d)",
+            "description": "Ensures the right to move freely throughout the territory of India."
+        },
+        {
+            "title": "Right to Practice any Profession",
+            "article": "19(1)(g)",
+            "description": "Guarantees the right to practice any profession or to carry on any occupation, trade, or business."
+        },
+        {
+            "title": "Protection in Respect of Conviction",
+            "article": 20,
+            "description": "Provides protection against double jeopardy and self-incrimination."
+        },
+        {
+            "title": "Right to Life and Personal Liberty",
+            "article": 21,
+            "description": "Guarantees the right to life and personal liberty, ensuring no person is deprived of these rights except according to the procedure established by law."
+        },
+        {
+            "title": "Protection Against Arrest and Detention",
+            "article": 22,
+            "description": "Provides rights to individuals in case of arrest and detention, including the right to be informed of the grounds of arrest."
+        }
+    ],
+    "honorable_mentions": [
+        {
+            "title": "Right to Equality in Public Employment",
+            "article": 16,
+            "description": "Ensures equality of opportunity in matters of public employment and prohibits discrimination in employment on grounds of religion, race, caste, sex, descent, place of birth, or any of them."
+        },
+        {
+            "title": "Right to Freedom of Religion",
+            "articles": [
+                {
+                    "article": 25,
+                    "description": "Guarantees freedom of conscience and the right to freely profess, practice, and propagate religion."
+                },
+                {
+                    "article": 26,
+                    "description": "Provides the right to manage religious affairs."
+                }
+            ]
+        },
+        {
+            "title": "Cultural and Educational Rights",
+            "articles": [
+                {
+                    "article": 29,
+                    "description": "Protects the interests of minorities by allowing them to conserve their culture, language, and script."
+                },
+                {
+                    "article": 30,
+                    "description": "Grants minorities the right to establish and administer educational institutions of their choice."
+                }
+            ]
+        },
+        {
+            "title": "Right to Constitutional Remedies",
+            "article": 32,
+            "description": "Allows individuals to approach the Supreme Court for enforcement of Fundamental Rights."
+        },
+        {
+            "title": "Right Against Exploitation",
+            "articles": [
+                {
+                    "article": 23,
+                    "description": "Prohibits human trafficking and forced labor."
+                },
+                {
+                    "article": 24,
+                    "description": "Prohibits the employment of children in hazardous industries."
+                }
+            ]
+        }
     ]
 }
