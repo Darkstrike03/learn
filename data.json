@@ -5,13 +5,15 @@
             "part": "1234",
             "act": "Article 14",
             "section": "Section 1",
-            "summary": "Ensures equal rights for all."
+            "summary": "Ensures equal rights for all.",
+            "keywords": ["equality", "law", "equal protection", "non-discrimination"]
         },
         {
             "law": "Right to Freedom",
             "act": "Article 19",
             "section": "Section 2",
-            "summary": "Provides various freedoms like speech, expression, etc."
+            "summary": "Provides various freedoms like speech, expression, etc.",
+            "keywords": ["freedom", "speech", "expression", "movement"]
         }
     ],
     "domestic-rights": [
@@ -19,118 +21,97 @@
             "law": "Right against Domestic Violence",
             "act": "Domestic Violence Act, 2005",
             "section": "Section 3",
-            "summary": "Protects against domestic abuse."
+            "summary": "Protects against domestic abuse.",
+            "keywords": ["domestic violence", "protection", "abuse", "women rights"]
         }
     ],
     "fundamental_rights": [
         {
             "title": "Right to Equality",
             "article": 14,
-            "description": "Guarantees equality before the law and equal protection of the laws within the territory of India."
+            "description": "Guarantees equality before the law and equal protection of the laws within the territory of India.",
+            "keywords": ["equality", "equal protection", "law", "rights"]
         },
         {
             "title": "Prohibition of Discrimination",
             "article": 15,
-            "description": "Prohibits discrimination on grounds of religion, race, caste, sex, or place of birth."
+            "description": "Prohibits discrimination on grounds of religion, race, caste, sex, or place of birth.",
+            "keywords": ["discrimination", "equality", "religion", "caste", "gender"]
         },
         {
             "title": "Access to Public Places",
             "article": "15(2)",
-            "description": "Ensures no citizen is denied access to shops, public restaurants, hotels, and places of public entertainment."
+            "description": "Ensures no citizen is denied access to shops, public restaurants, hotels, and places of public entertainment.",
+            "keywords": ["public access", "equality", "facilities", "restaurants"]
         },
         {
             "title": "Special Provisions for Women and Children",
             "article": "15(3)",
-            "description": "Allows the State to make special provisions for the advancement of women and children."
+            "description": "Allows the State to make special provisions for the advancement of women and children.",
+            "keywords": ["women rights", "child protection", "special provisions", "equality"]
         },
         {
             "title": "Right to Freedom of Speech and Expression",
             "article": "19(1)(a)",
-            "description": "Guarantees the right to express one's thoughts and opinions freely."
+            "description": "Guarantees the right to express one's thoughts and opinions freely.",
+            "keywords": ["freedom of speech", "expression", "press", "opinion"]
         },
         {
             "title": "Right to Assemble Peacefully",
             "article": "19(1)(b)",
-            "description": "Allows citizens to assemble peacefully without arms."
+            "description": "Allows citizens to assemble peacefully without arms.",
+            "keywords": ["assembly", "protest", "peaceful gathering"]
         },
         {
             "title": "Right to Form Associations",
             "article": "19(1)(c)",
-            "description": "Grants the right to form associations or unions."
+            "description": "Grants the right to form associations or unions.",
+            "keywords": ["association", "unions", "groups", "organizations"]
         },
         {
             "title": "Right to Move Freely",
             "article": "19(1)(d)",
-            "description": "Ensures the right to move freely throughout the territory of India."
+            "description": "Ensures the right to move freely throughout the territory of India.",
+            "keywords": ["movement", "travel", "territory", "freedom"]
         },
         {
             "title": "Right to Practice any Profession",
             "article": "19(1)(g)",
-            "description": "Guarantees the right to practice any profession or to carry on any occupation, trade, or business."
+            "description": "Guarantees the right to practice any profession or to carry on any occupation, trade, or business.",
+            "keywords": ["profession", "occupation", "trade", "business"]
         },
         {
             "title": "Protection in Respect of Conviction",
             "article": 20,
-            "description": "Provides protection against double jeopardy and self-incrimination."
+            "description": "Provides protection against double jeopardy and self-incrimination.",
+            "keywords": ["conviction", "double jeopardy", "self-incrimination"]
         },
         {
             "title": "Right to Life and Personal Liberty",
             "article": 21,
-            "description": "Guarantees the right to life and personal liberty, ensuring no person is deprived of these rights except according to the procedure established by law."
-        },
-        {
-            "title": "Protection Against Arrest and Detention",
-            "article": 22,
-            "description": "Provides rights to individuals in case of arrest and detention, including the right to be informed of the grounds of arrest."
+            "description": "Guarantees the right to life and personal liberty, ensuring no person is deprived of these rights except according to the procedure established by law.",
+            "keywords": ["life", "liberty", "protection", "law"]
         }
     ],
     "honorable_mentions": [
         {
             "title": "Right to Equality in Public Employment",
             "article": 16,
-            "description": "Ensures equality of opportunity in matters of public employment and prohibits discrimination in employment on grounds of religion, race, caste, sex, descent, place of birth, or any of them."
+            "description": "Ensures equality of opportunity in matters of public employment and prohibits discrimination in employment on grounds of religion, race, caste, sex, descent, place of birth, or any of them.",
+            "keywords": ["employment", "equality", "job", "opportunity"]
         },
         {
             "title": "Right to Freedom of Religion",
             "articles": [
                 {
                     "article": 25,
-                    "description": "Guarantees freedom of conscience and the right to freely profess, practice, and propagate religion."
+                    "description": "Guarantees freedom of conscience and the right to freely profess, practice, and propagate religion.",
+                    "keywords": ["religion", "faith", "practice", "belief"]
                 },
                 {
                     "article": 26,
-                    "description": "Provides the right to manage religious affairs."
-                }
-            ]
-        },
-        {
-            "title": "Cultural and Educational Rights",
-            "articles": [
-                {
-                    "article": 29,
-                    "description": "Protects the interests of minorities by allowing them to conserve their culture, language, and script."
-                },
-                {
-                    "article": 30,
-                    "description": "Grants minorities the right to establish and administer educational institutions of their choice."
-                }
-            ]
-        },
-        {
-            "title": "Right to Constitutional Remedies",
-            "article": 32,
-            "description": "Allows individuals to approach the Supreme Court for enforcement of Fundamental Rights."
-        },
-        {
-            "title": "Right Against Exploitation",
-            "articles": [
-                {
-                    "article": 23,
-                    "description": "Prohibits human trafficking and forced labor."
-                },
-                {
-                    "article": 24,
-                    "description": "Prohibits the employment of children in hazardous industries."
+                    "description": "Provides the right to manage religious affairs.",
+                    "keywords": ["religious affairs", "management", "worship", "faith"]
                 }
             ]
         }
