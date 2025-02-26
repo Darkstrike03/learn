@@ -102,18 +102,15 @@
         },
         {
             "title": "Right to Freedom of Religion",
-            "articles": [
-                {
-                    "article": 25,
-                    "description": "Guarantees freedom of conscience and the right to freely profess, practice, and propagate religion.",
-                    "keywords": ["religion", "faith", "practice", "belief"]
-                },
-                {
-                    "article": 26,
-                    "description": "Provides the right to manage religious affairs.",
-                    "keywords": ["religious affairs", "management", "worship", "faith"]
-                }
+            "article": 25,
+            "description": "Guarantees freedom of conscience and the right to freely profess, practice, and propagate religion.",
+            "keywords": ["religion", "faith", "practice", "belief"]
+        },
+        {
+            "title": "Right to Freedom of Religion",
+            "article": 26,
+            "description": "Provides the right to manage religious affairs.",
+            "keywords": ["religious affairs", "management", "worship", "faith"]
+        }    
             ]
-        }
-    ]
 }
