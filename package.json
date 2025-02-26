@@ -1,7 +1,0 @@
-{
-  "name": "law-guide-database",
-  "version": "1.0.0",
-  "scripts": {
-    "build": "echo 'Build step executed'"
-  }
-}
